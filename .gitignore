@@ -1,0 +1,9 @@
+*.rar
+
+dados/
+raw_data/
+watch_ex/
+__pycache__/
+
+log.txt
+verification.py
